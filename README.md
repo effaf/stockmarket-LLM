@@ -1,4 +1,4 @@
-# Sentiment Analysis of Twitter Data for Stock Market Prediction using Large Language Model BERT.
+# Sentiment Analysis of Tweets for Stock Market Prediction using Large Language Model
 
 ## Overview
 This project explores the effectiveness of leveraging large language models, specifically BERT, for sentiment analysis on financial tweets to predict intraday movements in the stock market. 
